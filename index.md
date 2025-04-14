@@ -7,3 +7,8 @@ I just made 0 change to this file, it is just to test lightweight Markdown forma
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [] Eat cheese
+- [] Do things
+- [] Throw dat
+
